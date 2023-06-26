@@ -7,6 +7,7 @@ langs:
   it: Italiano
   en: English
   es: Español
+  ru: Русский
 pages:
   example: Esempio
   includeexample: Il testo che segue è un parametro di Jekyll include liquid tag
