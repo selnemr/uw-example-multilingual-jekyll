@@ -3,8 +3,6 @@ markdown: kramdown
 highlighter: pygments
 exclude: ["LICENSE.txt", "README.md"]
 
-default_locale_in_subfolder: true
-
 baseurl: ""
 permalink: /:title/
 
