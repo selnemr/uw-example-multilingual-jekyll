@@ -1,7 +1,7 @@
 Minimal website using multiple languages plugin
 ===============================================
 
-![Jekyll Multiple Languages Plugin](../brand/jekyll_multiple_languages_plugin_logo.png)
+This is used for exercise. Based on https://github.com/kurtsson/jekyll-multiple-languages-plugin
 
 Features:
 - Internationalization of the website
