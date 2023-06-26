@@ -64,9 +64,10 @@
         </div>
         {% tf footer.md %}
         <br />
-        <a class="link-it" href="{% tl root it %}">it</a>
-        <a class="link-en" href="{% tl root en %}">en</a>
-        <a class="link-es" href="{% tl root es %}">es</a>
+        <a class="link-en" href="{% tl root en %}">{% t langs.en %}</a>
+        <a class="link-es" href="{% tl root es %}">{% t langs.es %}</a>
+        <a class="link-it" href="{% tl root it %}">{% t langs.it %}</a>
+        <a class="link-ru" href="{% tl root it %}">{% t langs.ru %}</a>
       </div>
 
         {{ content }}
