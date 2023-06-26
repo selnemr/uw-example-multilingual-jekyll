@@ -1,7 +1,3 @@
----
-title: Riquardo
----
-
 ### Riquardo
 Questa pagina utilizza i link localizzate e permalink personalizzati!
 
