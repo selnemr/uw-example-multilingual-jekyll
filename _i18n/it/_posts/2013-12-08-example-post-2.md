@@ -8,4 +8,4 @@ categories: it posts
 
 ## Esempio 2
 
-Esempio 2
+Esempio 2.
