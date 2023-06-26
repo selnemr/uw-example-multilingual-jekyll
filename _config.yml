@@ -6,6 +6,7 @@ exclude: ["LICENSE.txt", "README.md"]
 baseurl: ""
 permalink: /:title/
 
+# default_locale_in_subfolder: true
 
 # Paginate
 paginate: 1
